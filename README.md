@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isss007&label=Profile%20views&color=0e75b6&style=flat" alt="isss007" /> </p>
-<img align="right" alt="coding" src ="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif" width="600px"></img>
+<img align="right" alt="coding" src ="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif" width="500px"></img>
 <p align="left"> <a href="https://twitter.com/shivgansaurabh" target="blank"><img src="https://img.shields.io/twitter/follow/shivgansaurabh?logo=twitter&style=for-the-badge" alt="shivgansaurabh" /></a> </p>
 
 - 🔭 I’m currently working on **Car Rental System**
