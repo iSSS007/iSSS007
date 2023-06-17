@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://twitter.com/shivgansaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivgansaurabh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saurabhshivgan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhshivgan" height="30" width="40" /></a>
-<a href="https://instagram.com/gta.veagus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gta.veagus" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucareroheqdirjauj32hadvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucareroheqdirjauj32hadvg" height="30" width="40" /></a>
+<a href="https://instagram.com/gta.vegus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gta.veagus" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCARerohEQDIrjAuj32HAdVg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCARerohEQDIrjAuj32HAdVg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
